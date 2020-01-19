@@ -1,4 +1,4 @@
-module github.com/go-services/code
+module github.com/allar/code
 
 go 1.12
 
